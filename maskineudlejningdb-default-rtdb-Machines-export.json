@@ -1,0 +1,26 @@
+{
+  "-Nh99_WVjme6hXz81vf7": {
+    "brand": "Honda",
+    "description": "A gas powered mower ideal for cutting grass in smaller yards",
+    "name": "Lawn Mower",
+    "price": "750,-"
+  },
+  "-Nh99nirnwHy7mlsbmIE": {
+    "brand": "Black & Decker",
+    "description": "An electric trimmer for maintaining hedges",
+    "name": "Hedge Trimmer",
+    "price": "450,-"
+  },
+  "-Nh99y0R0HGjhvgjJlmb": {
+    "brand": "Stihl",
+    "description": "Blower for clearing leaves from yards and driveways",
+    "name": "Leaf Blower",
+    "price": "475,-"
+  },
+  "-Nh9AEMogSHg-qiL_yqS": {
+    "brand": "Genie",
+    "description": "Vertical lift platform for maintenance and construction work",
+    "name": "Lift",
+    "price": "849,-"
+  }
+}
